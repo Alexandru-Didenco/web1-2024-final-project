@@ -1,0 +1,139 @@
+html{
+	style-type: none;
+	background: white;
+}
+body{
+	margin-left: 10%;
+}
+.container_menu{
+	background: #eee;
+	width: 70%;
+	height: 100px;
+	text-align: center;
+}
+nav a {
+	color: #333;
+	text-decoration: none;
+	padding: 10px;
+	transition: color 0.3s ease;
+  }
+  
+  nav a:hover {
+	color: #007bff;
+  }
+.menu img{
+position: relative;
+top:25px;
+}
+.container_menu1{
+	background: rgb(214, 234, 248);
+	width: 70%;
+	height: 100px;
+	text-align: center;
+}
+.container_menu2{
+	background: rgb(218, 257, 180);
+	width: 70%;
+	height: 100px;
+	text-align: center;
+}
+.container_menu3{
+	background: rgb(255, 195, 0);
+	width: 70%;
+	height: 100px;
+	text-align: center;
+}
+
+.link{
+	padding-left: 25px;
+	font-size: 23px;
+	text-decoration: none;
+	color: black;
+}
+.link:hover{
+	border: 2px solid darkred;
+}
+.page_one{
+	background: #eee;
+	width: 70%;
+}
+.page_one1{
+	background: rgb(214, 244, 268);
+	width: 70%;
+}
+.page_one2{
+	background: rgb(218, 257, 180);
+	width: 70%;
+}
+.page_one3{
+	background: rgb(255, 195, 0);
+	width: 70%;
+}
+
+
+h3{
+	font-size: 25px;
+	text-align: center;
+	color: darkgoldenrod;
+}
+h2{
+	font-size: 30px;
+	text-align: center;
+	color: rgb(31, 122, 31);
+}
+.img_reteta{
+	margin-left: 3%;
+	display: flex;
+}
+.caracteristica{
+	background: #c4c4c4;
+	margin-left: 1%;
+	font-size: 20px;
+	text-align: center;
+	padding-top: 10px;
+	width: 200px;
+	height: 90px;
+}
+.caracteristica1{
+	background: #c4c4c4;
+	margin-left: 1%;
+	font-size: 18px;
+	color: black;
+	text-align: center;
+	padding-top: 10px;
+	width: 200px;
+	height: 90px;
+}
+.logare{
+	background: #eee;
+	position: absolute;
+	margin-top: -250px;
+	margin-left: 65%;
+	width: 270px;
+	height: 180px;
+	padding-left: 30px;
+	padding-top: 10px;
+	line-height: 39px;
+}
+button{
+	background: lightslategrey;
+	border: none;
+	height: 40px;
+	margin-left: 30px;
+}
+.logo{
+	width: 55PX;
+}
+button:hover{
+	background: #eee;
+}
+.reteta{
+	font-size: 21px;
+	padding-left: 5px;
+}
+footer{
+	top: auto;
+	background: #c4c4c4;
+	height: 200px;
+	width: 70%;
+}
